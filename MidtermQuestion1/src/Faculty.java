@@ -1,4 +1,8 @@
-
+/**Faculty is a sublclass of Employee
+ * 
+ * @author seanvernon
+ *
+ */
 public class Faculty extends Employee{
 	private String officeHours;
 	private int rank;

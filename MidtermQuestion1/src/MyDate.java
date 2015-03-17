@@ -1,4 +1,8 @@
-
+/**
+ * MyDate class
+ * @author seanvernon
+ *
+ */
 public class MyDate {
 
 	private int year;

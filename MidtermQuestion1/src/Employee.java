@@ -40,6 +40,9 @@ public Employee(String a, double b, String c){
 	public void setDateHired(String dateHired) {
 		this.dateHired = dateHired;
 	}
+	/**
+	 * Overriding toString() method.
+	 */
 	public  String toString(){
 		return  "Employee: " + getName();
 	}
