@@ -1,4 +1,4 @@
-/**Faculty is a sublclass of Employee
+/**Faculty is a subclass of Employee
  * 
  * @author seanvernon
  *
